@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mnurfaadil.github.io/myapp",
-  "name": "myapp",
+  "homepage": "http://mnurfaadil.github.io/coin-market",
+  "name": "coin-market",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
