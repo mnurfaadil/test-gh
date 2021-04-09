@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          COIN MARKET
+          COIN MARKET co
         </a>
       </header>
     </div>
